@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\rustempfu11.12\sorts\bin\Debug\sorts.exe.config
+C:\Users\User\source\repos\rustempfu11.12\sorts\bin\Debug\sorts.exe
+C:\Users\User\source\repos\rustempfu11.12\sorts\bin\Debug\sorts.pdb
+C:\Users\User\source\repos\rustempfu11.12\sorts\obj\Debug\sorts.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\rustempfu11.12\sorts\obj\Debug\sorts.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\rustempfu11.12\sorts\obj\Debug\sorts.exe
+C:\Users\User\source\repos\rustempfu11.12\sorts\obj\Debug\sorts.pdb
+C:\Users\admin\Desktop\BogdanLabsAndSorts\sorts\bin\Debug\sorts.exe.config
+C:\Users\admin\Desktop\BogdanLabsAndSorts\sorts\bin\Debug\sorts.exe
+C:\Users\admin\Desktop\BogdanLabsAndSorts\sorts\bin\Debug\sorts.pdb
+C:\Users\admin\Desktop\BogdanLabsAndSorts\sorts\obj\Debug\sorts.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\BogdanLabsAndSorts\sorts\obj\Debug\sorts.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\BogdanLabsAndSorts\sorts\obj\Debug\sorts.exe
+C:\Users\admin\Desktop\BogdanLabsAndSorts\sorts\obj\Debug\sorts.pdb
